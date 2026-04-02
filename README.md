@@ -3,6 +3,7 @@
 Kullanıcıların tweet paylaşabildiği, diğer kullanıcıları takip edebildiği ve etkileşime girebildiği bir sosyal medya uygulaması. Backend ve frontend birlikte geliştirilmiştir. Çoklu dil desteği içerir.
 
 ---
+## Siteye giriş için: https://renvstudio.com/
 
 ## Özellikler
 
