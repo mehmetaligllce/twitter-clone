@@ -4,7 +4,7 @@ Kullanıcıların tweet paylaşabildiği, diğer kullanıcıları takip edebildi
 
 ---
 ## Siteye giriş için: https://renvstudio.com/
-
+CSS ler için yapay zekadan yardım alınmıştır
 ## Özellikler
 
 - Kullanıcı kayıt, giriş ve çıkış sistemi  
